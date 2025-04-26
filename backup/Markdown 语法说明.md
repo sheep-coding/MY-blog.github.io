@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://sheep-coding.github.io/MY-blog.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://sheep-coding.github.io/MY-blog.github.io</link></image><lastBuildDate>Sat, 26 Apr 2025 04:29:13 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Markdown 语法说明</title><link>https://sheep-coding.github.io/MY-blog.github.io/post/Markdown%20-yu-fa-shuo-ming.html</link><description># 🎨 Markdown 效果展示与源码对照
+# 🎨 Markdown 效果展示与源码对照
 
 ## 1. 标题效果展示
 
@@ -68,29 +67,29 @@
 ### 显示效果
 ```python
 def hello_world():
-    print('Hello, Markdown!')
+    print("Hello, Markdown!")
 ```
 
 ### 源代码
 ````markdown
 ```python
 def hello_world():
-    print('Hello, Markdown!')
+    print("Hello, Markdown!")
 ```
 ````
 
 ## 6. 引用效果展示
 
 ### 显示效果
-&gt; 💡 这是引用内容
-&gt; 
-&gt; 可以多行显示
+> 💡 这是引用内容
+> 
+> 可以多行显示
 
 ### 源代码
 ```markdown
-&gt; 💡 这是引用内容
-&gt; 
-&gt; 可以多行显示
+> 💡 这是引用内容
+> 
+> 可以多行显示
 ```
 
 ## 7. 分割线效果展示
@@ -112,25 +111,25 @@ def hello_world():
 ## 8. 折叠内容效果展示
 
 ### 显示效果
-&lt;details&gt;
-&lt;summary&gt;点击展开详情&lt;/summary&gt;
+<details>
+<summary>点击展开详情</summary>
 
 这里是隐藏的内容...
 
 - 项目1
 - 项目2
-&lt;/details&gt;
+</details>
 
 ### 源代码
 ```markdown
-&lt;details&gt;
-&lt;summary&gt;点击展开详情&lt;/summary&gt;
+<details>
+<summary>点击展开详情</summary>
 
 这里是隐藏的内容...
 
 - 项目1
 - 项目2
-&lt;/details&gt;
+</details>
 ```
 
 ## 9. 数学公式效果展示
@@ -170,17 +169,17 @@ $$
 ## 11. 特殊提示效果展示
 
 ### 显示效果
-&gt; 💡 **提示**：这是重要提示
-&gt; 
-&gt; ⚠️ **警告**：请注意这个事项
+> 💡 **提示**：这是重要提示
+> 
+> ⚠️ **警告**：请注意这个事项
 
 ### 源代码
 ```markdown
-&gt; 💡 **提示**：这是重要提示
-&gt; 
-&gt; ⚠️ **警告**：请注意这个事项
+> 💡 **提示**：这是重要提示
+> 
+> ⚠️ **警告**：请注意这个事项
 ```
 
 ---
 
-每个示例都展示了实际渲染效果和对应的Markdown源代码，您可以直接复制源代码使用这些格式！。</description><guid isPermaLink="true">https://sheep-coding.github.io/MY-blog.github.io/post/Markdown%20-yu-fa-shuo-ming.html</guid><pubDate>Sat, 26 Apr 2025 04:28:46 +0000</pubDate></item></channel></rss>
+每个示例都展示了实际渲染效果和对应的Markdown源代码，您可以直接复制源代码使用这些格式！
